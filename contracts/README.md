@@ -90,7 +90,7 @@ constructor(
 
 ### Audit Status
 
-- **Self-Audited**: Yes
+- **Self-Audited**: Yes - [Security Audit Report](https://github.com/goldiecoin1/goldiecoin-website/blob/main/Goldiecoin_Security_Self_Audit_2025.pdf)
 - **Third-Party Audit**: Pending
 - **Whitepaper**: [View PDF](https://github.com/goldiecoin1/goldiecoin-website/blob/main/GoldiecoinV5_Whitepaper.pdf)
 

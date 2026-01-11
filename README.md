@@ -24,27 +24,10 @@ Goldiecoin is a fair-launched, rugproof omnichain memecoin with auto-growing liq
 
 ## 🎨 Logo Assets
 
-Official Goldiecoin logos are available in multiple formats for use in wallets, exchanges, and applications:
+Official Goldiecoin logo (32x32 SVG):
 
-### Available Sizes & Formats
 ```
-logos/
-├── bsc/
-│   ├── logo-32x32.svg    # BSC Chain (32x32 SVG)
-│   ├── logo-64x64.png    # BSC Chain (64x64 PNG)
-│   ├── logo-128x128.png  # BSC Chain (128x128 PNG)
-│   └── logo-256x256.png  # BSC Chain (256x256 PNG)
-└── base/
-    ├── logo-32x32.svg    # Base Chain (32x32 SVG)
-    ├── logo-64x64.png    # Base Chain (64x64 PNG)
-    ├── logo-128x128.png  # Base Chain (128x128 PNG)
-    └── logo-256x256.png  # Base Chain (256x256 PNG)
-```
-
-### CDN Links
-```
-https://cdn.jsdelivr.net/gh/goldiecoin1/goldiecoin-assets@main/logos/bsc/logo-256x256.png
-https://cdn.jsdelivr.net/gh/goldiecoin1/goldiecoin-assets@main/logos/base/logo-256x256.png
+https://cdn.jsdelivr.net/gh/goldiecoin1/goldiecoin-assets@main/logos/goldiecoin-logo-32x32.svg
 ```
 
 ## 📄 Smart Contracts
@@ -57,7 +40,7 @@ https://cdn.jsdelivr.net/gh/goldiecoin1/goldiecoin-assets@main/logos/base/logo-2
   - Permanently burned LP tokens
   - Fair launch (no presale, no team allocation at launch)
 - **Source Code**: See `/contracts` directory
-- **Audit**: Self-audited ([View Whitepaper](https://github.com/goldiecoin1/goldiecoin-website/blob/main/GoldiecoinV5_Whitepaper.pdf))
+- **Audit**: Self-audited ([View Security Audit](https://github.com/goldiecoin1/goldiecoin-website/blob/main/Goldiecoin_Security_Self_Audit_2025.pdf))
 
 ## 🔗 Official Links
 
@@ -70,7 +53,7 @@ https://cdn.jsdelivr.net/gh/goldiecoin1/goldiecoin-assets@main/logos/base/logo-2
 ## 💎 Tokenomics
 
 - **Total Supply**: 32,000,000,000 GOLDI
-- **Circulating Supply**: ~6,800,000,000 GOLDI (in LP)
+- **Circulating Supply**: ~8,000,000,000 GOLDI (in LP)
 - **Buy Tax**: 0.25% (goes to auto-LP)
 - **Sell Tax**: 2% (goes to auto-LP)
 - **LP Status**: Burned to 0x...dEaD (Rugproof)
@@ -132,7 +115,7 @@ Or manually:
 - ✅ **LP Tokens Burned** to 0x000000000000000000000000000000000000dEaD
 - ✅ **Ownership Renounced** (Fair launch principles)
 - ✅ **Auto-LP Mechanism** (Non-custodial, automated liquidity growth)
-- ✅ **Self-Audited** ([Whitepaper](https://github.com/goldiecoin1/goldiecoin-website/blob/main/GoldiecoinV5_Whitepaper.pdf))
+- ✅ **Self-Audited** ([Security Audit Report](https://github.com/goldiecoin1/goldiecoin-website/blob/main/Goldiecoin_Security_Self_Audit_2025.pdf))
 
 ### Burn Transaction
 - **TX Hash**: `0x290d0e95cfa8d76c4432cdb215d5aff4ff67c8a62e722e93552656f7ae32c99f`
