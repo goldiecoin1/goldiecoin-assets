@@ -1,0 +1,49 @@
+# Sensitive Files - NEVER COMMIT!
+.env
+.env.*
+*.key
+*.pem
+**/WICHTIG/
+**/WICHTIG/**
+
+# Private Keys & Secrets
+private_key*
+*.secret
+credentials.json
+config.secret.*
+
+# Node & Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+.pnp
+.pnp.js
+
+# Build & Cache
+cache/
+artifacts/
+build/
+dist/
+*.log
+*.tsbuildinfo
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Hardhat
+coverage/
+coverage.json
+typechain/
+typechain-types/
+
+# Local Development
+.cache/
+temp/
+tmp/
+*.tmp
